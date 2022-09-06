@@ -28,4 +28,3 @@ int y = Convert.ToInt32(Console.ReadLine());
 
 int areaNum = GetPointArea(x, y);
 Console.WriteLine($"Area = {areaNum}");
-
